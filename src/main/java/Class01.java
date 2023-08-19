@@ -5,5 +5,15 @@ public class Class01 {
         int y = 2;
         System.out.println(x+y);
 
+         // versiyon 4 kodları (hatalı kodlar)
+        System.out.println("hatalı kodlar");
+
+        // versiyon 4
+        System.out.println("versiyon 4");
+
+
+
+
+
     }
 }
